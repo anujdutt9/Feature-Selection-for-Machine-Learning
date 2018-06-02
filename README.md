@@ -32,7 +32,7 @@
 |  2.   | Quasi-Constant Feature Elimination | This notebook explains how to get the Quasi-Constant features and remove them during pre-processing. | Completed |
 |  3.   | Duplicate Features | This notebook explains how to find the duplicate features in a dataset and remove them. | Completed |
 |  4.   | Correlation       | This notebook explains how to get the correlation between features and between features and target and choose the best features. | Completed |
-|  5.   | Correlation Pipeline | This notebook explains how to use the above basic methods along with correlation in a ML pipeline. | Ongoing |
+|  5.   | Machine Learning Pipeline | This notebook explains how to use all the above methods in a ML pipeline with performance comparison. | Completed |
 
 
 # Wrapper Methods
