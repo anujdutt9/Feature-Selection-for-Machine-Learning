@@ -18,6 +18,12 @@
 
 **7. Seaborn**
 
+# Datasets
+
+**1.** [Santander Customer Satisfaction Dataset](https://www.kaggle.com/c/santander-customer-satisfaction)
+
+**2.** [BNP Paribas Cardif Claims Management Dataset](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management)
+
 # Filter Methods
 
 | S.No. |       Name        |                           About                                    |    Status    |
