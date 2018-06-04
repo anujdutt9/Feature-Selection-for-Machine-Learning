@@ -24,6 +24,8 @@
 
 **2.** [BNP Paribas Cardif Claims Management Dataset](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management)
 
+**3.** [Titanic Disaster Dataset](https://www.kaggle.com/c/titanic/data)
+
 # Filter Methods
 
 | S.No. |       Name        |                           About                                    |    Status    |
@@ -34,7 +36,7 @@
 |  4.   | Correlation       | This notebook explains how to get the correlation between features and between features and target and choose the best features. | Completed |
 |  5.   | Machine Learning Pipeline | This notebook explains how to use all the above methods in a ML pipeline with performance comparison. | Completed |
 |  6.   | Mutual Information | This notebook explains the concept of Mutual Information using classification and Regression to find the best features from a dataset. | Completed  |
-|  7.   | Fisher Score Chi Square |  | Completed |
+|  7.   | Fisher Score Chi Square | This notebook explains the concept of Fisher Score chi2 for feature selection.  | Completed |
 
 
 # Wrapper Methods
