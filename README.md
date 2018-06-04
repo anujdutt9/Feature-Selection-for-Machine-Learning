@@ -37,6 +37,8 @@
 |  5.   | Machine Learning Pipeline | This notebook explains how to use all the above methods in a ML pipeline with performance comparison. | Completed |
 |  6.   | Mutual Information | This notebook explains the concept of Mutual Information using classification and Regression to find the best features from a dataset. | Completed  |
 |  7.   | Fisher Score Chi Square | This notebook explains the concept of Fisher Score chi2 for feature selection.  | Completed |
+|  8.   | Univariate Feature Selection | This notebook explains the concept of Univariate Feature Selection using Classification and Regression. | Completed |
+|  9.   | Univariate ROC/AUC/MSE |  | Completed |
 
 
 # Wrapper Methods
