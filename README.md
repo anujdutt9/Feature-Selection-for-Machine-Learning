@@ -33,6 +33,8 @@
 |  3.   | Duplicate Features | This notebook explains how to find the duplicate features in a dataset and remove them. | Completed |
 |  4.   | Correlation       | This notebook explains how to get the correlation between features and between features and target and choose the best features. | Completed |
 |  5.   | Machine Learning Pipeline | This notebook explains how to use all the above methods in a ML pipeline with performance comparison. | Completed |
+|  6.   | Mutual Information | This notebook explains the concept of Mutual Information using classification and Regression to find the best features from a dataset. | Completed  |
+|  7.   | Fisher Score Chi Square |  | Completed |
 
 
 # Wrapper Methods
