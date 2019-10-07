@@ -40,13 +40,17 @@
 |  6.   | Mutual Information | This notebook explains the concept of Mutual Information using classification and Regression to find the best features from a dataset. | Completed  |
 |  7.   | Fisher Score Chi Square | This notebook explains the concept of Fisher Score chi2 for feature selection.  | Completed |
 |  8.   | Univariate Feature Selection | This notebook explains the concept of Univariate Feature Selection using Classification and Regression. | Completed |
-|  9.   | Univariate ROC/AUC/MSE |  | Ongoing |
+|  9.   | Univariate ROC/AUC/MSE | This notebook explains the concept of Univariate Feature Selection using ROC AUC scoring.| Completed |
+| 10.   | Combining all Methods | This notebook compares the combined performance of all methods explained. | Completed |
 
 
 # Wrapper Methods
 
 | S.No. |       Name        |                           About                                    |    Status    |
 | ----- | ----------------- | ------------------------------------------------------------------ | ------------ |
+| 1.    | Step Forward Feature Selection | This notebook explains the concept of Step Forward Feature Selection. | Completed |
+| 2.    | Step Backward Feature Selection | This notebook explains the concept of Step Backward Feature Selection. |Completed|
+| 3.    | Exhaustive Search Feature Selection | This notebook explains the concept of Exhaustive Search Feature Selection.| Completed |
 
 # Embedded Methods
 
