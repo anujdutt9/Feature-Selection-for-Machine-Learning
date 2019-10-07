@@ -20,6 +20,8 @@
 
 **7. Seaborn**
 
+**8. mlxtend**
+
 # Datasets
 
 **1.** [Santander Customer Satisfaction Dataset](https://www.kaggle.com/c/santander-customer-satisfaction)
@@ -27,6 +29,8 @@
 **2.** [BNP Paribas Cardif Claims Management Dataset](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management)
 
 **3.** [Titanic Disaster Dataset](https://www.kaggle.com/c/titanic/data)
+
+**4.** [Housing Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 # Filter Methods
 
